@@ -9,7 +9,6 @@ import {
 } from "@material-ui/core";
 import InfoBox from "./InfoBox";
 import Map from "./Map";
-import { areArraysEqual } from "@mui/base";
 import Table from './Table'
 import {sortData} from "./utij"
 import "leaflet/dist/leaflet.css";
