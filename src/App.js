@@ -105,9 +105,4 @@ function App() {
 }
 
 export default App;
-{
-  /* <MenuItem value="worldwide">Worldwide</MenuItem>
-          <MenuItem value="worldwide">option2</MenuItem>
-          <MenuItem value="worldwide">option3</MenuItem>
-          <MenuItem value="worldwide">yooo</MenuItem> */
-}                                                                                                                                                                                                                               
+                                                                                                                                                                                                                               
